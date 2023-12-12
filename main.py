@@ -1,7 +1,7 @@
 from bot import ChatBot
 
 
-faqBot = ChatBot("support", "data.csv")
+faqBot = ChatBot("support", 'data.csv')
 
 
 while True:
